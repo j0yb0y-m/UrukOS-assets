@@ -1,0 +1,30 @@
+{
+  "product": "UrukOS",
+  "version": "0.1.0",
+  "tagline": "The fire of Uruk, on your desktop.",
+  "colors": {
+    "bg": { "name": "Sumerian Night", "hex": "#0A0A0C", "rgb": [10, 10, 12] },
+    "surface": { "name": "Ziggurat Stone", "hex": "#1C1917", "rgb": [28, 25, 23] },
+    "accent": { "name": "Uruk Amber", "hex": "#FF8C00", "rgb": [255, 140, 0] },
+    "accent2": { "name": "Gilgamesh Bronze", "hex": "#A65D24", "rgb": [166, 93, 36] },
+    "fg": { "name": "Clay Tablet", "hex": "#FCF3E5", "rgb": [252, 243, 229] }
+  },
+  "ansi": {
+    "black": "#1C1917",
+    "red": "#E35335",
+    "green": "#A9B665",
+    "yellow": "#FF8C00",
+    "blue": "#7DAEA3",
+    "magenta": "#D3869B",
+    "cyan": "#89B4FA",
+    "white": "#FCF3E5",
+    "bright_black": "#3A3633",
+    "bright_red": "#EC6B4E",
+    "bright_green": "#C2CC8A",
+    "bright_yellow": "#FFA733",
+    "bright_blue": "#9EC9BF",
+    "bright_magenta": "#E2A0B3",
+    "bright_cyan": "#AFCBFF",
+    "bright_white": "#FFFDF7"
+  }
+}

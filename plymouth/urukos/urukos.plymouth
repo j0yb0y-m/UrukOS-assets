@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=UrukOS
+Description=UrukOS boot splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/urukos
+ScriptFile=/usr/share/plymouth/themes/urukos/urukos.script

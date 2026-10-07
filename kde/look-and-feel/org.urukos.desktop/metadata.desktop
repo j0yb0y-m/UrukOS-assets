@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+ID[$e]=org.urukos.desktop
+Name[$e]=UrukOS
+Comment[$e]=UrukOS KDE defaults
+X-KDE-PluginInfo-Name=org.urukos.desktop
+X-KDE-ServiceTypes=KPluginInfo

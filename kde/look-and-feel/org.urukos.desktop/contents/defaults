@@ -1,0 +1,8 @@
+[General]
+ColorScheme=UrukOS
+
+[Icons]
+Theme=breeze-dark
+
+[KDE]
+LookAndFeelPackage=org.urukos.desktop
